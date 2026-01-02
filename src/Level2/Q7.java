@@ -1,0 +1,20 @@
+package Level2;
+
+import java.util.Scanner;
+
+public class Q7 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int number1 = sc.nextInt();
+        int number2 = sc.nextInt();
+
+        System.out.println("Before swapping number1 -> " + number1 + " number2 " + number2);
+
+        int temp = number1;
+        number1 = number2;
+        number2 = temp;
+
+        System.out.println("After swapping number1 -> " + number1 + " number2 " + number2);
+    }
+}

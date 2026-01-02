@@ -1,6 +1,6 @@
 package level1;
 
-public class four {
+public class Q4 {
     public static void main(String[] args) {
 
         double costPrice = 129;

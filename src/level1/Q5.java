@@ -1,6 +1,6 @@
 package level1;
 
-public class fifth {
+public class Q5 {
     public static void main(String[] args) {
 
         int totalPens = 14;

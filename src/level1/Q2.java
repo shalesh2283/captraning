@@ -1,6 +1,6 @@
 package level1;
 
-public class sec {
+public class Q2 {
     public static void main(String[] args) {
 
         int maths = 94;

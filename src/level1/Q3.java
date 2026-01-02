@@ -1,6 +1,6 @@
 package level1;
 
-public class third {
+public class Q3 {
     public static void main(String[] args) {
 
         double kilometers = 10.8;
