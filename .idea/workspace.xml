@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dce8c02-fd53-4bf6-b2ad-4ae6a7c0b09f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/level1/four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/Four.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/sec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/Sec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level1/third.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level1/Third.java" afterDir="false" />
-    </list>
+    <list default="true" id="3dce8c02-fd53-4bf6-b2ad-4ae6a7c0b09f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "1__1__26",
+    "git-widget-placeholder": "feature",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/thede/OneDrive/Desktop/captranin/src/Main.java",
     "vue.rearranger.settings.migration": "true"
