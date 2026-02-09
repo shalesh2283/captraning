@@ -1,0 +1,16 @@
+import java.io.*;
+
+public class FilterStudentsCSV {
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new FileReader("students.csv"));
+        String line;
+        br.readLine();
+        while ((line = br.readLine()) != null) {
+            String[] data = line.split(",");
+            if (Integer.parseInt(data[3]) > 80) {
+                System.out.println(line);
+            }
+        }
+        br.close();
+    }
+}
